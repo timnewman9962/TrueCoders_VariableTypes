@@ -1,0 +1,13 @@
+C:\Users\Tim\repos\VariableTypes\obj\Debug\netcoreapp3.1\VariableTypes.csprojAssemblyReference.cache
+C:\Users\Tim\repos\VariableTypes\obj\Debug\netcoreapp3.1\VariableTypes.AssemblyInfoInputs.cache
+C:\Users\Tim\repos\VariableTypes\obj\Debug\netcoreapp3.1\VariableTypes.AssemblyInfo.cs
+C:\Users\Tim\repos\VariableTypes\obj\Debug\netcoreapp3.1\VariableTypes.csproj.CoreCompileInputs.cache
+C:\Users\Tim\repos\VariableTypes\bin\Debug\netcoreapp3.1\VariableTypes.exe
+C:\Users\Tim\repos\VariableTypes\bin\Debug\netcoreapp3.1\VariableTypes.deps.json
+C:\Users\Tim\repos\VariableTypes\bin\Debug\netcoreapp3.1\VariableTypes.runtimeconfig.json
+C:\Users\Tim\repos\VariableTypes\bin\Debug\netcoreapp3.1\VariableTypes.runtimeconfig.dev.json
+C:\Users\Tim\repos\VariableTypes\bin\Debug\netcoreapp3.1\VariableTypes.dll
+C:\Users\Tim\repos\VariableTypes\bin\Debug\netcoreapp3.1\VariableTypes.pdb
+C:\Users\Tim\repos\VariableTypes\obj\Debug\netcoreapp3.1\VariableTypes.dll
+C:\Users\Tim\repos\VariableTypes\obj\Debug\netcoreapp3.1\VariableTypes.pdb
+C:\Users\Tim\repos\VariableTypes\obj\Debug\netcoreapp3.1\VariableTypes.genruntimeconfig.cache
